@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MikeSkoe
+- 👀 I’m interested in FrontEnd and a bit in GameDev
+- 🌱 I’m currently learning OCaml
+- 📫 How to reach me by email rapidmajk@yandex.ru
