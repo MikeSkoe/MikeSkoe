@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @MikeSkoe
-- 👀 I’m interested in FrontEnd and a bit in GameDev
-- 🌱 I’m currently learning OCaml
+- 👀 I’m interested in FrontEnd and Functional Programming
 - 📫 How to reach me by email rapidmajk@yandex.ru
